@@ -3,5 +3,4 @@ s3fs
 langchain
 qdrant_client
 boto3
-io
 pandas

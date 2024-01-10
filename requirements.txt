@@ -1,0 +1,9 @@
+streamlit
+s3fs
+langchain
+collections
+statistics
+qdrant_client
+boto3
+io
+pandas
